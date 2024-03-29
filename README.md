@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Personal side project to promote a local music band
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The aim of this side project is to put into practice what I've learned of React and help out a small local band of eastern european music : Bachi Bouzouk Orkestar
+
+It has been made and will evolve on my spare time. It is public, so as to constitute a showcase.
 
 ## Available Scripts
 
@@ -68,3 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+**GitHub: [flvr](https://github.com/flvr)**
